@@ -36,12 +36,3 @@ This notebook includes:
 - Helps **optimize ROI on digital marketing campaigns**.
 
 ---
-
-## 📂 Project Structure
-
-```bash
-📂 Marketing-Analytics-Prediction
-│── 📄 Marketing_Analysis.ipynb      # Jupyter Notebook with all code
-│── 📊 complex_marketing_analysis.csv  # Processed dataset for Tableau/Power BI
-│── 📄 README.md                     # Project documentation
-│── 📄 requirements.txt               # Python dependencies
